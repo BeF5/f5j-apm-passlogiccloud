@@ -4,37 +4,37 @@ APMの設定
 #. APMをプロビジョニングします。
 
    .. image:: images/mod4-1.png
-      :scale: 80%
+      :scale: 60%
       :align: center
    |  
 #. VLANの設定をします。（以下はシングル構成の場合のイメージ）
    
    .. image:: images/mod4-2.png
-      :scale: 80%
+      :scale: 70%
       :align: center
    |    
 #. SelfIPの設定を行います。（以下はシングル構成の場合のイメージ）
    
    .. image:: images/mod4-3.png
-      :scale: 80%
+      :scale: 70%
       :align: center
    |  
 #. デフォルトゲートウェイを設定します。
    
    .. image:: images/mod4-4.png
-      :scale: 80%
+      :scale: 70%
       :align: center
    |  
 #. DNSの設定をします。
    
    .. image:: images/mod4-5.png
-      :scale: 80%
+      :scale: 70%
       :align: center
    |  
 #. NTPの設定をします。
    
    .. image:: images/mod4-6.png
-      :scale: 80%
+      :scale: 70%
       :align: center
    | 
 #. Access Profileを作成します。**Access >> Profiles/Policies >> Access Profiles(Per-Session Policies)** にて :guilabel:`Create` ボタンを押し、Access Profileを作成します。**Name** にて任意の名称を入力し、**Profile Type** にて、**SSL-VPN** を選択し、**Customization Type** にて **Standard** を選択し、**Language** にて **Japanese** を選択し、:guilabel:`Finished` ボタンを押します。

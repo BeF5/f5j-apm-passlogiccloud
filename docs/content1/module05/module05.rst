@@ -43,7 +43,7 @@ Chromeブラウザから接続した場合
 #. Chromeブラウザを起動し、APMのVirtual ServerのFQDN/IPアドレスに接続します。
    
     .. image:: images/mod5-6.png
-        :scale: 60%
+        :scale: 70%
         :align: center
     |  
 #. すぐにPassLogicのユーザID入力画面にリダイレクトされますので、PassLogicの設定の項で登録しておいたユーザIDを入力、ドメイン名を選択し、次へボタンを押します。
@@ -85,7 +85,7 @@ Chromeブラウザから接続した場合
 #. 接続すると、以下のようにブラウザに表示され、画面右下に赤いアイコンが表示されます。
    
     .. image:: images/mod5-13.png
-        :scale: 80%
+        :scale: 60%
         :align: center
     |  
 

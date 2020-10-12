@@ -4,13 +4,13 @@ PassLogicクラウド版の設定
 #. パスロジ社に申請した自社のテナントの管理画面にログインします。
 
    .. image:: images/mod3-1.png
-      :scale: 60%
+      :scale: 50%
       :align: center
    |  
 #. 事前に設定したマス目パターンのワンタイムパスワードを入力します。
    
    .. image:: images/mod3-2.png
-      :scale: 80%
+      :scale: 60%
       :align: center
    |       
 #. **RADIUS - SSO** の設定をします。**RADIUS** の **No.** に **1** と入力し、**アプリケーション名称** に任意の名前を入力し、**認証の送信先URL** において、**https://<APMのFQDNまたはIPアドレス>/my.policy** と入力し、**ログインIDのValue属性** において **Passlogic Domain** を選択し、**テナント追加** にチェックを入れ、:guilabel:`次へ` ボタンを押します。（ここで設定する **アプリケーション名称** はAPM側の設定で利用します。）
