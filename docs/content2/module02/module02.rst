@@ -18,8 +18,8 @@ APMの追加設定
    .. image:: images/mod2-4.png
    |  
 #. 左右それぞれに以下のように入力し、:guilabel:`Finished` ボタンを押します。
-    左： **session.logon.last.department**
-    右： **mcget -decode {session.radius.last.attr.<Attribute名>}**
+   |  左： **session.logon.last.department**
+   |  右： **mcget -decode {session.radius.last.attr.<Attribute名>}**
 
    .. image:: images/mod2-5.png
    |  
@@ -62,31 +62,45 @@ APMの追加設定
 #. **AD Query** を選択し、:guilabel:`Add Item` を押します。
    
    .. image:: images/mod2-15.png
+      :scale: 80%
+      :align: center
    |  
 #. **Type** にて設定済みのAD Serverの設定を選択します。
    
    .. image:: images/mod2-16.png
+      :scale: 80%
+      :align: center
    |  
 #. **Branch Rules** タブを選択し、デフォルト設定を削除します。
    
    .. image:: images/mod2-17.png
+      :scale: 80%
+      :align: center
    |  
 #. **Add Branch Rule** をクリックします。
    
    .. image:: images/mod2-18.png
+      :scale: 80%
+      :align: center
    |  
 #. 任意の名称を入力し、**change** をクリックします。
    
    .. image:: images/mod2-19.png
+      :scale: 80%
+      :align: center
    |  
 #. **Advanced** タブを選択し、以下のように入力し、:guilabel:`Finished` ボタンを押します。
    expr { [mcget {session.ad.last.attr.memberOf}] contains [mcget {session.logon.last.department}] }
    
    .. image:: images/mod2-20.png
+      :scale: 80%
+      :align: center
    |  
 #. :guilabel:`Save` ボタンを押します。
    
    .. image:: images/mod2-21.png
+      :scale: 80%
+      :align: center
    |  
 #. Group毎のACLを作成します。**Access >> Access Control Lists > User-defained ACLs** にて、:guilabel:`Create` ボタンを押し、**Name** に任意の名称を入力し、:guilabel:`Create` ボタンを押します。
    

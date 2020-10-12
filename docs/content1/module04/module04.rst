@@ -49,7 +49,7 @@ APMの設定
    
    .. image:: images/mod4-9.png
    | 
-#. SSL-VPN接続後にクライアントに割り振りたいIPアドレス（Lease Pool）を設定します。**Network Settings** タブを選択し、**IPV4 Lease Pool** の右隣の **＋** ボタンを押します。
+#. SSL-VPN接続後にクライアントに割り振りたいIPアドレス（Lease Pool）を設定します。**Network Settings** タブを選択し、**IPV4 Lease Pool** の右隣の :guilabel:`+` ボタンを押します。
    
    .. image:: images/mod4-10.png
    | 
@@ -57,7 +57,7 @@ APMの設定
    
    .. image:: images/mod4-11.png
    | 
-#. クライアントからSSL-VPN接続させたい接続先IPアドレスの範囲（Split tunneling）を設定します。（全てSSL-VPN経由で接続させたい場合は、本設定は不要です。）**Traffic Options** にて、**Use split tunneling for traffic** を選択し、**IPV4 LAN Address Space** にて、IPアドレス範囲を指定し、:guilabel:`Update` ボタンを押します。
+#. クライアントからSSL-VPN接続させたい接続先IPアドレスの範囲（Split tunneling）を設定します。（全てSSL-VPN経由で接続させたい場合は、本設定は不要です。） **Traffic Options** にて、**Use split tunneling for traffic** を選択し、**IPV4 LAN Address Space** にて、IPアドレス範囲を指定し、:guilabel:`Update` ボタンを押します。
    
    .. image:: images/mod4-12.png
    | 
@@ -77,7 +77,7 @@ APMの設定
    
    .. image:: images/mod4-16.png
    | 
-#. Visual Policy Editorが表示されます。**Start** と **Deny** の間の **+** ボタンを押します。
+#. Visual Policy Editorが表示されます。**Start** と **Deny** の間の :guilabel:`+` ボタンを押します。
    
    .. image:: images/mod4-17.png
    | 
@@ -128,6 +128,8 @@ APMの設定
 #. **Advanced Resource Assign** の先のEnding Boxを **Deny** から **Allow** に変更します。
    
    .. image:: images/mod4-29.png
+      :scale: 60%
+      :align: center
    | 
 #. **Apply Access Policy** を押します。
    

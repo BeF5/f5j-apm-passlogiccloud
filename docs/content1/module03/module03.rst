@@ -17,7 +17,7 @@ PassLogicクラウド版の設定
    
    .. image:: images/mod3-3.png
    |  
-#. 入力内容を確認し、決定ボタンを押します。
+#. 入力内容を確認し、:guilabel:`決定` ボタンを押します。
    
    .. image:: images/mod3-4.png
    |  

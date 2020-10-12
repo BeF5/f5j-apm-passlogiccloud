@@ -12,13 +12,13 @@ Edge Clientは、APM管理画面のHomeアイコン（左上の赤いF5アイコ
         :scale: 60%
         :align: center
     |  
-#. すぐにPassLogicのユーザID入力画面にリダイレクトされますので、PassLogicの設定の項で登録しておいたユーザIDを入力、ドメイン名を選択し、次へボタンを押します。
+#. すぐにPassLogicのユーザID入力画面にリダイレクトされますので、PassLogicの設定の項で登録しておいたユーザIDを入力、ドメイン名を選択し、:guilabel:`次へ` ボタンを押します。
 
     .. image:: images/mod5-2.png
         :scale: 60%
         :align: center
     |  
-#. PassLogicの設定の項で設定したマス目パターンに該当するワンタイムパスワードを入力し、ログインボタンを押します。（初回は確認のため、３回入力する必要があります。）
+#. PassLogicの設定の項で設定したマス目パターンに該当するワンタイムパスワードを入力し、:guilabel:`ログイン` ボタンを押します。（初回は確認のため、３回入力する必要があります。）
    
     .. image:: images/mod5-3.png
         :scale: 60%
@@ -46,13 +46,13 @@ Chromeブラウザから接続した場合
         :scale: 70%
         :align: center
     |  
-#. すぐにPassLogicのユーザID入力画面にリダイレクトされますので、PassLogicの設定の項で登録しておいたユーザIDを入力、ドメイン名を選択し、次へボタンを押します。
+#. すぐにPassLogicのユーザID入力画面にリダイレクトされますので、PassLogicの設定の項で登録しておいたユーザIDを入力、ドメイン名を選択し、:guilabel:`次へ` ボタンを押します。
    
     .. image:: images/mod5-7.png
         :scale: 60%
         :align: center
     |  
-#. PassLogicの設定の項で設定したマス目パターンに該当するワンタイムパスワードを入力し、ログインボタンを押します。（初回は確認のため、３回入力する必要があります。）
+#. PassLogicの設定の項で設定したマス目パターンに該当するワンタイムパスワードを入力し、:guilabel:`ログイン` ボタンを押します。（初回は確認のため、３回入力する必要があります。）
    
     .. image:: images/mod5-8.png
         :scale: 60%
@@ -106,13 +106,13 @@ Edge Clientは、APM管理画面のHomeアイコン（左上の赤いF5アイコ
         :scale: 60%
         :align: center
     |  
-#. すぐにPassLogicのユーザID入力画面にリダイレクトされますので、PassLogicの設定の項で登録しておいたユーザIDを入力、ドメイン名を選択し、次へボタンを押します。
+#. すぐにPassLogicのユーザID入力画面にリダイレクトされますので、PassLogicの設定の項で登録しておいたユーザIDを入力、ドメイン名を選択し、:guilabel:`次へ` ボタンを押します。
    
     .. image:: images/mod5-16.png
         :scale: 60%
         :align: center
     |  
-#. PassLogicの設定の項で設定したマス目パターンに該当するワンタイムパスワードを入力し、ログインボタンを押します。（初回は確認のため、３回入力する必要があります。）
+#. PassLogicの設定の項で設定したマス目パターンに該当するワンタイムパスワードを入力し、:guilabel:`ログイン` ボタンを押します。（初回は確認のため、３回入力する必要があります。）
    
     .. image:: images/mod5-17.png
         :scale: 60%
