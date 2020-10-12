@@ -4,25 +4,25 @@
 #. ブラウザからAPMのVirtulal ServerのFQDN/IPアドレスに接続します。
    
    .. image:: images/mod3-1.png
-      :scale: 40%
+      :scale: 50%
       :align: center
    |  
 #. PassLogicに登録したユーザIDを入力し、対応するドメインを選択し、:guilabel:`次へ` ボタンを押します。
    
    .. image:: images/mod3-2.png
-      :scale: 50%
+      :scale: 55%
       :align: center
    |  
 #. マス目に沿ったワンタイムパスワードを入力し、:guilabel:`ログイン` ボタンを押します。
    
    .. image:: images/mod3-3.png
-      :scale: 50%
+      :scale: 55%
       :align: center
    |  
 #. ADのユーザ名とパスワードを入力し、:guilabel:`ログオン` ボタンを押します。
    
    .. image:: images/mod3-4.png
-      :scale: 50%
+      :scale: 60%
       :align: center
    |  
 #. **F5 Networks VPNを開く** を選択します。
@@ -40,7 +40,7 @@
 #. SSL-VPN接続されます。
    
    .. image:: images/mod3-7.png
-      :scale: 50%
+      :scale: 60%
       :align: center
    |  
 #. Group毎のACLが反映されているか、確認をします。
