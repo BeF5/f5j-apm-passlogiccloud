@@ -4,7 +4,7 @@
 APMとPassLogicクラウド版、ADサーバの連携の流れは以下の通りです。
 
 .. figure:: images/mod1-1.png
-   :scale: 80%
+   :scale: 60%
    :align: center
 
 
